@@ -1,7 +1,7 @@
 {
-  "name": "com.unityessentials.apvlightingbaker",
-  "version": "1.0.0",
-  "displayName": "Unity Graphics APVLightingBaker",
+  "name": "com.unityessentials.graphics.apvlightingbaker",
+  "version": "2.0.0",
+  "displayName": "Graphics ApvLightingBaker",
   "description": "This is a part of the UnityEssentials Ecosystem",
   "unity": "6000.0",
   "unityRelease": "",
